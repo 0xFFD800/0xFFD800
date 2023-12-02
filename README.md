@@ -1,10 +1,10 @@
-### 👋 Hey all!
+## 👋 Hey all!
 I'm a senior at Wheaton College (IL) majoring in Computer Science and minoring in Mathematics. A couple quick facts about me:
 * In 3rd grade I convinced my best friend I was a robot, and I don't know if he ever found out I was lying
 * The only reason I can code is because some random middle school teacher decided we should play Minecraft instead of having class (then introduced us to modding)
 * In high school I played guitar and screamed for an emo band called Gangrene (can you guess how that name got picked?)
 * I once reverse engineered Wheaton's outbound firewall in a bid to evade surveillance and censorship (it's less robust than you'd think)
-### 🛠️ Tools I've used
+## 🛠️ Tools I've used
 * 🐧 problems:
   ![linux](https://img.shields.io/badge/Linux-333238?logo=linux)
   ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
