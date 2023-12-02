@@ -23,6 +23,8 @@ I'm a senior at Wheaton College (IL) majoring in Computer Science and minoring i
   ![java](https://img.shields.io/badge/Java-orange)
   ![jdk](https://img.shields.io/badge/OpenJDK-333238?logo=openjdk&color=E95420&logoColor=white)
   ![mysql](https://img.shields.io/badge/MySQL-333238?logo=mysql&color=darkblue&logoColor=white)
+  ![html](https://img.shields.io/badge/HTML5-333238?logo=html5)
+  ![css](https://img.shields.io/badge/CSS3-333238?logo=css3&logoColor=cyan)
   ![markdown](https://img.shields.io/badge/Markdown-333238?logo=markdown)
   ![latex](https://img.shields.io/badge/LaTeX-333238?logo=latex&color=aliceblue&logoColor=grey)
 * Non-🎄 packages:
@@ -32,10 +34,14 @@ I'm a senior at Wheaton College (IL) majoring in Computer Science and minoring i
   ![numpy](https://img.shields.io/badge/numpy-333238?logo=numpy)
   ![nltk](https://img.shields.io/badge/nltk-green)
   ![node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-* For when the code won't write itself:
+* For making cool stuff:
   ![vim](https://img.shields.io/badge/Vim-333238?logo=vim&color=white&logoColor=019733)
+  ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse)
   ![emacs](https://img.shields.io/badge/Emacs-333238?logo=gnuemacs&color=252525&logoColor=lightpurple)
+  ![npp](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepad%2B%2B&logoColor=black)
   ![vscode](https://img.shields.io/badge/VS_Code-333238?logo=visualstudiocode&color=212131&logoColor=007ACC)
   ![android studio](https://img.shields.io/badge/Android_Studio-333238?logo=androidstudio)
+  ![gimp](https://img.shields.io/badge/GIMP-5C5543?logo=gimp)
+  ![blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white)
   ![git](https://img.shields.io/badge/Git-333238?logo=git)
   ![github](https://img.shields.io/badge/GitHub-333238?logo=github)
