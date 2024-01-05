@@ -1,5 +1,5 @@
 ## 👋 Hey all!
-I'm a senior at Wheaton College (IL) majoring in Computer Science and minoring in Mathematics. A couple quick facts about me:
+I recently graduated from Wheaton College (IL) with a major in Computer Science and a minor in Mathematics. A couple quick facts about me:
 * In 3rd grade I convinced my best friend I was a robot, and I don't know if he ever found out I was lying
 * The only reason I can code is because some random middle school teacher decided we should play Minecraft instead of having class (then introduced us to modding)
 * In high school I played guitar and screamed for an emo band called Gangrene (can you guess how that name got picked?)
