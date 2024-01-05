@@ -13,6 +13,7 @@ I'm a senior at Wheaton College (IL) majoring in Computer Science and minoring i
   ![nmap](https://img.shields.io/badge/Nmap-purple)
   ![aircrack-ng](https://img.shields.io/badge/aircrack--ng-grey)
   ![gnome](https://img.shields.io/badge/Gnome-4A86CF?logo=gnome&logoColor=white)
+  ![bspwm](https://img.shields.io/badge/bspwm-2E2E2E?logo=bspwm&logoColor=white)
 * Unspeakable languages:
   ![c](https://img.shields.io/badge/C-333238?logo=c&labelColor=grey&color=4A86CF)
   ![c++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
